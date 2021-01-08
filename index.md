@@ -15,11 +15,23 @@ git commit
 git push
 ```
 
-# My favorite company is [AMD](https://www.amd.com/en) 
-[My computer config](./Computer_config.txt)
+# My work flow:
+  1. understand the problem
+    - think about it
+      - relate to other problem
+      - how other problems solved
+    - write the solution
+      - find the best way that I can come up 
+      - how can I develop one more solution 
 
-Stocks watchlist:
+# My favorite company is [AMD](https://www.amd.com/en) 
+
+### [My computer config](./Computer_config.txt)
+
+## Stocks watchlist:
 - AMD
 - PLTR
 - ARKG
 - Tesla
+
+
