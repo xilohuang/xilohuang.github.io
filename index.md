@@ -15,4 +15,4 @@ git commit
 git push
 ```
 
-
+My favorite company so far [AMD](https://www.amd.com/en) 
