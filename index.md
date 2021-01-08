@@ -2,7 +2,7 @@
 
 **Hi, I am Xiaolong Huang** *, you can call me Brian.* ~~I love coding all day all night~~
 
-<img src="IMG_0532.png" />
+<img src="cat.jpg" />
 
 # My motto is from Lao Tzu:
 > If you are at peace, you are living in the present.
