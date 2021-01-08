@@ -24,6 +24,14 @@ git push
        - find the best way that I can come up 
        - how can I develop one more solution 
 
+# My wish for 2021:
+  - [x] Snowboarding
+  - [ ] Covid away from the world
+  - [ ] Find an internship
+  - [ ] Learning unreal engine
+  - [ ] master C++
+  
+
 # My favorite company is [AMD](https://www.amd.com/en) 
 
 ### [My computer config](./Computer_config.txt)
