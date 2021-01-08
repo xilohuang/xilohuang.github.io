@@ -6,3 +6,13 @@
 
 My motto is from Lao Tzu:
 > If you are at peace, you are living in the present.
+
+Git command:
+```
+git clone
+git add
+git commit
+git push
+```
+
+
