@@ -16,3 +16,4 @@ git push
 ```
 
 # My favorite company is [AMD](https://www.amd.com/en) 
+[My computer config}(./Computer_config.txt)
