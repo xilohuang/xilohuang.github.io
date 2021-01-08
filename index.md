@@ -4,10 +4,10 @@
 
 **Hi, I am Xiaolong Huang** *, you can call me Brian.* ~~I love coding all day all night~~
 
-My motto is from Lao Tzu:
+# My motto is from Lao Tzu:
 > If you are at peace, you are living in the present.
 
-Git command:
+## how to use Git command:
 ```
 git clone
 git add
@@ -15,4 +15,4 @@ git commit
 git push
 ```
 
-My favorite company so far [AMD](https://www.amd.com/en) 
+# My favorite company is [AMD](https://www.amd.com/en) 
