@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Xiaolong's Site</title>
+	<meta name="author" content="Xiaolong Huang">
+  <style>
+	table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 100%;
+	}
+
+	td,
+	th {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
+	}
+
+	tr:nth-child(even) {
+		background-color: #dddddd;
+	}
+</style>
+</head>
+
+<body>
+	<h1>Welcome to Xiaolong's User Site</h1>
+  <button type="button" onclick="alert('Hello, this is a greeting from Xiaolong!')">Click Me!</button>
+	<h3>I am <strong>3rd</strong> year <span style="color:blue;font-weight:bold">CSE</span> major student from warren college in UCSD </h3>
+        <p>I love the <strong>product</strong> from <a href="https://www.amd.com">AMD</a> company</p>
+
+        <p>I usually watch video and upload my own videos on the <a href="https://www.bilibili.com">website</a> </p>
+        <iframe src="https://www.bilibili.com"></iframe><br><br>
+
+	
+
+	<table>
+		<tr>
+			<th>My Vehicle</th>
+			<th>Company</th>
+			<th>Country</th>
+		</tr>
+	  <tr>
+		  <td>BMW 535i 2016</td>
+		  <td>BMW</td>
+		  <td>Germany</td>
+	  </tr>
+	  <tr>
+		  <td>Porsche Caynne 2016</td>
+		  <td>Porsche</td>
+		  <td>Germany</td>
+	  </tr>
+	</table>
+
+    <p>Please fill out your information below!</p>
+    
+      <form>
+	      <br><label for="fname">First name: </label>
+	      <input type="text" id="fname" name="fname"><br>
+	      <label for="lname">Last name: </label>
+	      <input type="text" id="lname" name="lname"><br>
+	      <p>Please select your gender:</p>
+	      <input type="radio" id="male" name="gender" value="male">
+	      <label for="male">Male</label><br>
+	      <input type="radio" id="female" name="gender" value="female">
+	      <label for="female">Female</label><br>
+	      <input type="radio" id="other" name="gender" value="other">
+	      <label for="other">Other</label><br>
+		    <label for="bdaymonth">Enter Your Birthday (month and year):</label>
+		    <input type="month" id="bdaymonth" name="bdaymonth"><br>
+	      <label for="email">Enter your email:</label>
+	      <input type="email" id="email" name="email"><br>
+		    <label for="phone">Enter Your phone number:</label><br>
+		    <input type="tel" id="phone" name="phone" placeholder="888-123-4567" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br>
+	      <label for="favcolor">Select your favorite color:</label>
+		    <input type="color" id="favcolor" name="favcolor" value="#ff0000"><br>
+	      <label for="quantity">Your favorite number (between 0 and 10):</label>
+	      <input type="number" id="quantity" name="quantity" min="0" max="10"><br>
+        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+        <label for="vehicle1"> Do you have a car</label><br>
+	      <input type="reset" value="Reset">
+	      <input type="submit" value="Submit">
+      </form>
+    </body>
+</html>
